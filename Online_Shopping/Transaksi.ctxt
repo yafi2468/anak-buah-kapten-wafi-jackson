@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Transaksi
+comment1.params=
+comment1.target=Transaksi()
+comment2.params=
+comment2.target=Customer\ getAkun()
+comment3.params=akun
+comment3.target=void\ setAkun(Customer)
+comment4.params=
+comment4.target=java.util.ArrayList\ getBarang()
+comment5.params=b
+comment5.target=void\ addBarang(Barang)
+numComments=6

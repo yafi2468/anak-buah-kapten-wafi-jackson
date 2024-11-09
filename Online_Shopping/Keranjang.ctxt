@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Keranjang
+comment1.params=
+comment1.target=Keranjang()
+comment2.params=
+comment2.target=java.util.ArrayList\ getBarang()
+comment3.params=b
+comment3.target=void\ addBarang(Barang)
+numComments=4
