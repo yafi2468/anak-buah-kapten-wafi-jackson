@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Pembayaran
-comment1.params=id
-comment1.target=Pembayaran(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ getId()
-numComments=3

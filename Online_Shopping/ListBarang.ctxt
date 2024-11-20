@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=ListBarang
-comment1.params=
-comment1.target=ListBarang()
-comment2.params=
-comment2.target=java.util.ArrayList\ getBarang()
-comment3.params=b
-comment3.target=void\ addBarang(Barang)
-numComments=4
