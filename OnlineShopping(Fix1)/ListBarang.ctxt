@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ListBarang
+comment1.params=
+comment1.target=ListBarang()
+comment2.params=
+comment2.target=java.util.ArrayList\ getBarang()
+comment3.params=
+comment3.target=void\ viewItems()
+comment4.params=scanner
+comment4.target=void\ addItem(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ editItem(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ deleteItem(java.util.Scanner)
+numComments=7
