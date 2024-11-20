@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Barang
+comment1.params=nama\ harga
+comment1.target=Barang(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=nama
+comment3.target=void\ setNama(java.lang.String)
+comment4.params=
+comment4.target=double\ getHarga()
+comment5.params=harga
+comment5.target=void\ setHarga(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
