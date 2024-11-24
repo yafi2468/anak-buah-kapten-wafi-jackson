@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Invoice
+comment1.params=transaksi\ pembayaran
+comment1.target=Invoice(Transaksi,\ Pembayaran)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
