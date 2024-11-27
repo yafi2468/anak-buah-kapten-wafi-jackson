@@ -1,6 +1,9 @@
 ----------------------
 KELOMPOK ANOMALI 💀☠️
 ----------------------
-OnlineShopping = masih cacat;
-Fix1 = ga bisa transaksi;
-Fix2 = invoice blm pas
+Anggota Kelompok:
+-Yafi Hidayatullah (2308107010059)
+-Muhammad Reky (2308107010069)
+-Muhammad Fanzal Rivaldi (2308107010077)
+
+
