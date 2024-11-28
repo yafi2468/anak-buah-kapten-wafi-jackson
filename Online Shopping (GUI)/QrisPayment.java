@@ -4,6 +4,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class QrisPayment extends PaymentMethod {
+
+    // Konstruktor (panggil konstruktor kelas induk jika diperlukan)
+    public QrisPayment() {
+        super("QRIS"); // Pastikan konstruktor kelas induk menerima "QRIS"
+    }
+
     @Override
     public void processPayment() {
         // Frame utama
